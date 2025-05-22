@@ -1,0 +1,1 @@
+Fix authentication for app
